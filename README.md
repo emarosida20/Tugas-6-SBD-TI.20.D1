@@ -44,7 +44,7 @@
 
 ![8 (4)](https://user-images.githubusercontent.com/101863671/171458288-22e984b1-25b5-429b-874a-2380e0774445.png)
 
-# 4. Tulisakan script cron job untuk melakukan backup otomatis setiap hari minggu jam 12 malam!
+# 4. Tuliskan script cron job untuk melakukan backup otomatis setiap hari minggu jam 12 malam!
 ```0 0 * * 7 mysqldump -u root -p ema_312010062>ema_312010062_backup.sql```
 
 
