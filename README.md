@@ -36,7 +36,7 @@
 
 - Data yang telah di-backup dapat di restrore kembali ke dalam database dengan perintah
 
-```MySQLdump -u root -p (nama_database) <c:\xampp\mysql\bin\file_backup.sq```
+```MySQLdump -u root -p (nama_database) <c:\xampp\mysql\bin\file_backup.sql```
 
 ![5 (3)](https://user-images.githubusercontent.com/101863671/171456003-e4a8edb7-5db0-4ed2-a14e-a08c29dbe156.png)
 
